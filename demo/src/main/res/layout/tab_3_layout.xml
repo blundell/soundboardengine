@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:layout_centerInParent="true"
+  android:baselineAligned="false"
+  android:orientation="horizontal">
+
+  <LinearLayout
+    android:id="@+id/innerLinearLayout3RowA"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="50"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/btn_video1"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video1" />
+
+    <Button
+      android:id="@+id/btn_video3"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video3" />
+
+    <Button
+      android:id="@+id/btn_video5"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video5" />
+
+    <Button
+      android:id="@+id/btn_video7"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video7" />
+
+    <Button
+      android:id="@+id/btn_video9"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video9" />
+  </LinearLayout>
+
+  <LinearLayout
+    android:id="@+id/innerLinearLayout3RowB"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="50"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/btn_video2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video2" />
+
+    <Button
+      android:id="@+id/btn_video4"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video4" />
+
+    <Button
+      android:id="@+id/btn_video6"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video6" />
+
+    <Button
+      android:id="@+id/btn_video8"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_video8" />
+  </LinearLayout>
+</LinearLayout>

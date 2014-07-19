@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:layout_centerInParent="true"
+  android:baselineAligned="false"
+  android:orientation="horizontal">
+
+  <LinearLayout
+    android:id="@+id/innerLinearLayout2RowA"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="50"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/btn_sound13"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound13" />
+
+    <Button
+      android:id="@+id/btn_sound15"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound15" />
+
+    <Button
+      android:id="@+id/btn_sound17"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound17" />
+
+    <Button
+      android:id="@+id/btn_sound19"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound19" />
+
+    <Button
+      android:id="@+id/btn_sound21"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound21" />
+
+    <Button
+      android:id="@+id/btn_sound23"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:gravity="center_vertical|center_horizontal"
+      android:text="@string/button_sound23" />
+  </LinearLayout>
+
+  <LinearLayout
+    android:id="@+id/innerLinearLayout2RowB"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="50"
+    android:orientation="vertical">
+
+    <Button
+      android:id="@+id/btn_sound14"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound14" />
+
+    <Button
+      android:id="@+id/btn_sound16"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound16" />
+
+    <Button
+      android:id="@+id/btn_sound18"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound18" />
+
+    <Button
+      android:id="@+id/btn_sound20"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound20" />
+
+    <Button
+      android:id="@+id/btn_sound22"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+
+      android:text="@string/button_sound22" />
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- overwrite the libraries add unit id -->
+  <string name="sbe__add_unit_id">ca-app-pub-2127257085724877/7013318748</string>
+
+  <string name="app_name">SoundEngine Demo</string>
+
+  <string name="button_sound1">A</string>
+  <string name="button_sound2">B</string>
+  <string name="button_sound3">C</string>
+  <string name="button_sound4">D</string>
+  <string name="button_sound5">E</string>
+  <string name="button_sound6">F</string>
+  <string name="button_sound7">G</string>
+  <string name="button_sound8">H</string>
+  <string name="button_sound9">I</string>
+  <string name="button_sound10">J</string>
+  <string name="button_sound11">K</string>
+  <string name="button_sound12">L</string>
+  <string name="button_sound13">M</string>
+  <string name="button_sound14">N</string>
+  <string name="button_sound15">O</string>
+  <string name="button_sound16">P</string>
+  <string name="button_sound17">Q</string>
+  <string name="button_sound18">R</string>
+  <string name="button_sound19">S</string>
+  <string name="button_sound20">T</string>
+  <string name="button_sound21">U</string>
+  <string name="button_sound22">V</string>
+  <string name="button_sound23">W</string>
+  <string name="button_video1">vA</string>
+  <string name="button_video2">vB</string>
+  <string name="button_video3">vC</string>
+  <string name="button_video4">vD</string>
+  <string name="button_video5">vE</string>
+  <string name="button_video6">vF</string>
+  <string name="button_video7">vG</string>
+  <string name="button_video8">vH</string>
+  <string name="button_video9">vI</string>
+
+</resources>

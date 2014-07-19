@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="about_dialog_title">FPS Doug Sound About</string>
+  <string name="about_dialog_msg">Click a button once to hear a sound.
+    Hold down the button to save as a Ringtone/Notification.</string>
+  <string name="suggestions_dialog_title">Feedback</string>
+  <string name="suggestions_dialog_msg">If this app fails to work on your phone please email us with your phone make and model and we\'ll do out best to fix this.
+     Also, if you wish to request new sounds or video\'s please email us using the button below.</string>
+  <string name="suggestions_dialog_yes_button">Send Feedback</string>
+  <string name="email_title">Soundboard Feedback</string>
+</resources>

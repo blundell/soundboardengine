@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sbe__save_dialog_title">Sound</string>
+  <string name="sbe__save_dialog_msg">Save as:</string>
+  <string name="sbe__save_dialog_button_yes_ringtone">Ringtone</string>
+  <string name="sbe__save_dialog_button_yes_notification">Notification</string>
+</resources>

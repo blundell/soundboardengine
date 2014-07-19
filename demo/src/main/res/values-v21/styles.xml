@@ -1,0 +1,13 @@
+<resources>
+
+  <style name="Theme.NoTitleBar" parent="android:Theme.Holo.NoActionBar">  <!-- TODO change to Material soon -->
+    <item name="android:colorBackground">@color/transparent</item>
+  </style>
+
+  <style name="Theme.Blundell" parent="style/Theme.NoTitleBar" />
+
+  <style name="Theme.Blundell.FullScreen" parent="style/Theme.Blundell">
+    <item name="android:windowFullscreen">true</item>
+  </style>
+
+</resources>

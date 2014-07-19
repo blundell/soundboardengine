@@ -1,0 +1,11 @@
+<resources>
+
+  <style name="Theme.NoTitleBar" parent="android:Theme.Holo.Light.NoActionBar" />
+
+  <style name="Theme.Blundell" parent="style/Theme.NoTitleBar" />
+
+  <style name="Theme.Blundell.FullScreen" parent="style/Theme.Blundell">
+    <item name="android:windowFullscreen">true</item>
+  </style>
+
+</resources>
