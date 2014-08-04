@@ -1,6 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
 
+apply from: 'http://tellurianring.com/projects/gradle-plugins/gradle-release/apply.groovy'
+
 android {
     compileSdkVersion 20
     buildToolsVersion "20.0.0"
