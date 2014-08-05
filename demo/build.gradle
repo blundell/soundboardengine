@@ -4,7 +4,7 @@ android {
     compileSdkVersion 20
     buildToolsVersion '20.0.0'
     defaultConfig {
-        applicationId "com.blundell.fpsdoug.free"
+        applicationId "com.blundell.soundboardengine.demo"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
@@ -17,5 +17,5 @@ android {
 }
 
 dependencies {
-    compile project(':soundboardEngine')
+    compile project(':engine')
 }
