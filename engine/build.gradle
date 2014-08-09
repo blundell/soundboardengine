@@ -1,5 +1,10 @@
 apply plugin: 'com.android.library'
-apply plugin: 'maven-publish'
+
+ext {
+    PUBLISH_GROUP_ID = 'com.blundell'
+    PUBLISH_ARTIFACT_ID = 'soundboard-engine'
+    PUBLISH_VERSION = '0.0.1'
+}
 
 android {
     compileSdkVersion 20
@@ -17,3 +22,5 @@ android {
 dependencies {
     compile 'com.google.android.gms:play-services:5.0.77'
 }
+
+apply from: 'android-publish-jcenter.gradle'

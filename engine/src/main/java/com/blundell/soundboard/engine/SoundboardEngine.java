@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.app.Application;
 import android.os.Bundle;
 
+/**
+ * Builder to get your layouts hooked up to your sounds
+ */
 public class SoundboardEngine {
 
     private final Activity activity;
@@ -20,6 +23,11 @@ public class SoundboardEngine {
         return this;
     }
 
+    /**
+     * Ensure any bundled state is used after a rotation
+     *
+     * @param savedInstanceState the bundle passed into onCreate
+     */
     public SoundboardEngine restoreStateFrom(Bundle savedInstanceState) {
         this.savedInstanceState = savedInstanceState;
         return this;
