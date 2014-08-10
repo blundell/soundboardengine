@@ -17,6 +17,5 @@ android {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services:5.0.77'
-    compile 'com.blundell:soundboard-engine:0.0.1'
+    compile 'com.blundell:soundboard-engine:0.0.2'
 }
