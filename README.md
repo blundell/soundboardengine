@@ -8,4 +8,4 @@ Allows you to make a soundboard app in a few easy steps:
 
 3) Hook up the library!
 
-Woring example can be found in /demo
+Working example can be found in /demo
